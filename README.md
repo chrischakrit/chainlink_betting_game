@@ -1,1 +1,1 @@
-# chainlink_betting_game
+### ```"A Decentralized Betting Game powered by Chainlink Randomness."```
